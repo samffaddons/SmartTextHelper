@@ -1,0 +1,2 @@
+# SmartTextHelper
+Smart Text Helper
